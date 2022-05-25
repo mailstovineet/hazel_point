@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+}
+a{
+    margin-top:100px;
+}
+.line{
+    background-color:black;
+    width:100px;
+    height:20px;
+}
+.blue_div{
+    background-color:cornflowerblue
+}
+.green_div{
+    background-color:chartreuse;
+}
+.yellow_div{
+    background-color:gold;
+}
